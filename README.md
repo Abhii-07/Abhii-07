@@ -1,7 +1,7 @@
 ## Finally, you're here! :smiley: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- I'm Abhijeet, a compassionate MERN Stack Developer
+- I'm Abhijeet, a compassionate MERN Stack Developer.
   <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FF142E&center=true&lines=Software+Engineering;Full+Stack+Web+Developer;MERN;800%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FF142E&center=true&lines=Software+Engineering;Full+Stack+Web+Developer;M-E-R-N;800%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
 </p>
 
 <h3>Hands On Experience:</h3>
