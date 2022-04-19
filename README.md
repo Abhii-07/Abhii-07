@@ -24,26 +24,15 @@
 
 <br>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kiranjolisa&show_icons=true&count_private=true&theme=gotham" alt="Kiran R" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhii-07&show_icons=true&count_private=true&theme=gotham" alt="Kiran R" />
  </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranjolisa&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Kiran R" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhii-07&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Kiran R" />
  </p>
 
  ## <h3>I'm open to discussions revolving around tech and life, feel free to ping me on :</h3>
   <a href="https://www.linkedin.com/in/abhijeethiwale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kiran's LinkedIn" height="30" width="40" /></a>
-&ensp; <a href="mailto:kiranjolisa@gmail.com" target="blank"><img align="center" src="https://www.pngrepo.com/png/223047/180/gmail.png" alt="Mail to Kiran" height="40" width="40" /></a>
+&ensp; <a href="abhijeethiwalemail@gmail.com" target="blank"><img align="center" src="https://www.pngrepo.com/png/223047/180/gmail.png" alt="Mail to Kiran" height="40" width="40" /></a>
 
 <!--
-**kiranjolisa/kiranjolisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Abhijeet Hiwale* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
