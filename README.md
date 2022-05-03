@@ -25,7 +25,7 @@
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhii-07&show_icons=true&count_private=true&theme=gotham" alt="Abhii" />
  </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhii-07" alt="Abhii" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-07&layout=compact)" alt="Abhii" />
  </p>
 
  ## <h3>I'm open to discussions revolving around tech and life, feel free to ping me on :</h3>
