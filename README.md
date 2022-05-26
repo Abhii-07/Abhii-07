@@ -19,14 +19,14 @@
 <br /><br />
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>&emsp;
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>&emsp;
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-07&layout=compact)" alt="Abhii" />
+ </p></code>
 
-<!-- <br>
-<br> -->
+<br>
+<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhii-07&show_icons=true&count_private=true&theme=gotham" alt="Abhii" />
  </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-07&layout=compact)" alt="Abhii" />
- </p>
+
 
  ## <h3>I'm open to discussions revolving around tech and life, feel free to ping me on :</h3>
   <a href="https://www.linkedin.com/in/abhijeethiwale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kiran's LinkedIn" height="30" width="40" /></a>
