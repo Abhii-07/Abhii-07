@@ -1,4 +1,4 @@
-## Finally, you're here! :smiley: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
+## Finally, you're here! :smiley: 
 - <h1>I'm Abhijeet, a compassionate MERN Stack Developer.</h1>
   <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FF142E&center=true&lines=Software+Engineering;Full+Stack+Web+Developer;M-E-R-N;1000%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
