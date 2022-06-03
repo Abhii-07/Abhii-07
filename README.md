@@ -1,37 +1,61 @@
-## Finally, you're here! :smiley: 
-- <h1>I'm Abhijeet, a compassionate MERN Stack Developer.</h1>
-  <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FF142E&center=true&lines=Software+Engineering;Full+Stack+Web+Developer;M-E-R-N;1000%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
-</p>
+# Hello! 🥖
 
-<h3>Hands On Experience:</h3>
-<br />
-<img align = "right" src= "https://github.com/kiranjolisa/kiranjolisa/blob/main/code.gif?raw=true" width="500" height="300" alt = "Coding" />
+My name is Abhijeet Hiwale. I am a Full stack web developer living near Pune, India. I have profeciency in MERN stack and other than that I enjoy playing and watching football. 🥐
 
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-&emsp;
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>&emsp;
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>&emsp;
-<br /><br />
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>&emsp;
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>&emsp;
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>&emsp;
-<br /><br />
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>&emsp;
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>&emsp;
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-07&layout=compact)" alt="Abhii" />
- </p></code>
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
-<br>
-<br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhii-07&show_icons=true&count_private=true&theme=gotham" alt="Abhii" />
- </p>
+## 🛠  Technologies and tools
+
+<a name="learning-now"></a>
+
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
+&nbsp;
 
 
- ## <h3>I'm open to discussions revolving around tech and life, feel free to ping me on :</h3>
-  <a href="https://www.linkedin.com/in/abhijeethiwale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kiran's LinkedIn" height="30" width="40" /></a>
-&ensp; <a href="mailto:abhijeethiwalemail@gmail.com" target="blank"><img align="center" src="https://www.pngrepo.com/png/223047/180/gmail.png" alt="Mail to Kiran" height="40" width="40" /></a>
+<a name="learning-next"></a>
 
-<!--
-**Abhijeet Hiwale* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📖  What I am currently learning / improving on
 
+[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
+
+## 👾  What I am interested in learning at some point
+
+[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
+&nbsp;
+
+
+## 🔍  Where to find me
+
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/abhijeethiwale/)
+
+[tech_tools_anchor]: #bonjour--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next
