@@ -2,7 +2,8 @@
 
 My name is Abhijeet Hiwale. I am a Full stack web developer from Pune, India. I have proficiency in MERN stack and love to create amazing React based projects. Other than that I enjoy playing and watching football. 🥐
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default) -->
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=life&theme=dracula&animation=default&layout=default&font=default)
 
 ## 🛠  Technologies and tools
 
