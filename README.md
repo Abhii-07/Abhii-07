@@ -54,7 +54,7 @@ These words best describe my mindset! -->
 &nbsp;
 
 
-## My Statistics
+## 📊📈 My Statistics
 
 <br/>
 <p align="left">
@@ -88,6 +88,10 @@ These words best describe my mindset! -->
 &nbsp;
 [<img src="https://img.shields.io/static/v1?label=&message=portfolio&color=282C34&logo=portfolio&logoColor=DB7093" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://abhii-portfolio.vercel.app/)
 
+
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Abhii-07}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<br/>
 
 
 [tech_tools_anchor]: #bonjour--
