@@ -54,11 +54,33 @@ These words best describe my mindset! -->
 &nbsp;
 
 
-![Abhii's Github Stats](https://github-readme-stats.vercel.app/api?username=Abhii-07&count_private=true&show_icons=true&include_all_commits=true)
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Abhii-07&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Abhii-07&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+</p>
+<br>
+<!-- theme=dark -->
+<p align="center">
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhii-07&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="7oSkaaa" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+  
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=Abhii-07&theme=dracula)
+<br>
+
+<!-- ![Abhii's Github Stats](https://github-readme-stats.vercel.app/api?username=Abhii-07&count_private=true&show_icons=true&include_all_commits=true)
 &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-07&hide=TeX&layout=compact)
 &ensp;
-<a href="https://github.com/Abhii-07-cmd/github-readme-activity-graph"><img alt="Abhii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhii-07&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Abhii-07-cmd/github-readme-activity-graph"><img alt="Abhii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhii-07&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 ## 🔍  Where to find me
 
