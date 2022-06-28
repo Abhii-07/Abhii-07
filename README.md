@@ -65,6 +65,12 @@ My name is Abhijeet Hiwale. I am a Full stack web developer from Pune, India. I 
   </a>
 </p>
 <br>
+
+## 🔍  Where to find me
+
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/abhijeethiwale/)
+&nbsp;
+[<img src="https://img.shields.io/static/v1?label=&message=portfolio&color=282C34&logo=portfolio&logoColor=DB7093" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://abhii-portfolio.vercel.app/)
 <!-- theme=dark -->
 <p align="center">
   &nbsp;
@@ -83,11 +89,6 @@ My name is Abhijeet Hiwale. I am a Full stack web developer from Pune, India. I 
 &ensp;
 <a href="https://github.com/Abhii-07-cmd/github-readme-activity-graph"><img alt="Abhii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhii-07&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
-## 🔍  Where to find me
-
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/abhijeethiwale/)
-&nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=portfolio&color=282C34&logo=portfolio&logoColor=DB7093" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://abhii-portfolio.vercel.app/)
 
 
 <h4 align="center">Visitor's count 👀</h4>
