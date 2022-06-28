@@ -3,11 +3,7 @@
 My name is Abhijeet Hiwale. I am a Full stack web developer from Pune, India. I have a proficiency in MERN stack and love to create amazing React based projects. Other than that I enjoy playing and watching football. 🥐
 </div>
 
-
-<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default) -->
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=life&theme=dracula&animation=default&layout=default&font=default)
-<!-- &nbsp;
-These words best describe my mindset! -->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&hide_border=true")](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🛠  Technologies and tools
 
