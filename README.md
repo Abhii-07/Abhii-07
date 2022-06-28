@@ -97,6 +97,8 @@ These words best describe my mindset! -->
 <p align="center"><img src="https://profile-counter.glitch.me/{Abhii-07}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
 
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
