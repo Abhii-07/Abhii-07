@@ -88,7 +88,9 @@ I'am Abhijeet Hiwale, a Full stack web developer based in Pune, India. I have a 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-07&hide=TeX&layout=compact)
 &ensp;
 <a href="https://github.com/Abhii-07-cmd/github-readme-activity-graph"><img alt="Abhii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhii-07&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abhii-07&theme=dracula)](https://github.com/Abhii-07/github-profile-trophy)
+
+
 
 
 <h4 align="center">Visitor's count 👀</h4>
