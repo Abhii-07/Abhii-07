@@ -1,7 +1,7 @@
 # Hello! 🥖
 <div align = "center">
 I'am Abhijeet Hiwale, a Full stack web developer from Pune, India. I have a proficiency in MERN stack and love to create amazing React based projects. Other than that I enjoy playing and watching football. 🥐
-&nbsp;
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
