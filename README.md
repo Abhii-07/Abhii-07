@@ -1,7 +1,7 @@
 # Hello! 🥖
 <div align = "center">
 A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, web design and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.
-Contact me at : abhijeethiwalemail@gmail.com | LinkedIn : https://www.linkedin.com/in/abhijeethiwale/
+<br/>Contact me at : abhijeethiwalemail@gmail.com | LinkedIn : https://www.linkedin.com/in/abhijeethiwale/<br>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
