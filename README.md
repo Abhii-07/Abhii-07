@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *Java Back-end development*
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://Abhii-07.github.io/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://abhii-07.github.io/)
 
 - 📫 How to reach me `abhijeethiwalemail@gmail.com`
 
