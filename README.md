@@ -38,8 +38,15 @@
 
 <h2 align="left">📊 My Github Stats:</h2>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-07" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhii-07&show_icons=true" alt="Abhii-07" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-07" /></p> -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-07&layout=compact&hide=html" />
+</p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhii-07&show_icons=true" alt="Abhii-07" /></p> -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhii-07&show_icons=true&count_private=true&include_all_commits=true" alt="Abhii-07" />
+</p>
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhii-07" alt="Abhii-07" /></p>
 
