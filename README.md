@@ -53,7 +53,9 @@
 <br>
 <h2 align="left">⚡Activity Graph:</h2>
 <!--   <a><img alt="Abhijeet Hiwale's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhii-07&theme=react-dark&hide_border=true" /></a> -->
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhii-07&bg_color=fed1ff&color=4d0de3&line=150f14&point=111211&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhii-07&bg_color=fed1ff&color=4d0de3&line=150f14&point=111211&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+  
+  <a><img alt="Abhijeet Hiwale's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhii-07&bg_color=fed1ff&color=4d0de3&line=150f14&point=111211&area=true&hide_border=true"/></a> 
 <br>
 
 
