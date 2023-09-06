@@ -1,7 +1,7 @@
 ![MasterHead](https://scand.com/wp-content/uploads/2020/05/Java-KV2.jpg)
 
 <h1 align="center">Hi 👋, I'm Abhijeet Hiwale</h1>
-<h2 align="center">A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, web design and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h2>
+<h2 align="center">Dynamic Java Backend Developer proficient in Java and Spring Boot. Harnessing Generative AI to enhance development processes. Collaborative problem solver with strong communication skills, translating project requirements into efficient backend solutions. Committed to continuous learning, rapidly mastering new tech stacks, and optimizing code for performance and security.</h2>
 
 <img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"/>
 
