@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhii-07&label=Profile%20views&color=0e75b6&style=flat" alt="Abhii-07" /> </p>
 
-- 🌱 I’m currently learning *Java Back-end development*
+- 🌱 I’m currently working at *PayCraft Solutions*
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://abhii-07.github.io/)
 
