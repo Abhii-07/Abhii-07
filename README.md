@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working at *PayCraft Solutions*
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://abhii-07.github.io/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://abhii-portfolio.vercel.app/)
 
 - 📫 How to reach me `abhijeethiwalemail@gmail.com`
 
