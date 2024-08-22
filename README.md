@@ -13,7 +13,7 @@
 
 - 📫 How to reach me `abhijeethiwalemail@gmail.com`
 
-- 📄 Have a look at my [Resume](https://drive.google.com/file/d/112BrHZEOxHVOYoBBgOghSrsqtlaUQE3F/view?usp=share_link)
+- 📄 Have a look at my [Resume](https://drive.google.com/file/d/10LfP8SnhcHtTcmJuvuFvdPHun7LkjHeL/view)
 
 - 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhijeethiwale/)
 
