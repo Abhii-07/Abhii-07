@@ -33,8 +33,12 @@
 <h2 align="left">📄 My Stats:</h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhii-07" alt="Abhii-07" /></a> </p>
-
 <br>
+
+<h2 align="left">📊 My DSA Stats:</h2>
+<p align="center">
+ <img src= "https://leetcode.card.workers.dev/Abhii-07?theme=dark&font=baloo&extension=null" />
+</p>
 
 <h2 align="left">📊 My Github Stats:</h2>
 
