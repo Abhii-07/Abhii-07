@@ -1,65 +1,139 @@
-![MasterHead](https://scand.com/wp-content/uploads/2020/05/Java-KV2.jpg)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Abhijeet Hiwale</h1>
-<h2 align="center">Dynamic Full Stack Developer proficient in Java, JavaScript and its frameworks. Harnessing Generative AI to enhance development processes. Collaborative problem solver with strong communication skills, translating project requirements into efficient backend solutions. Committed to continuous learning, rapidly mastering new tech stacks, and optimizing code for performance and security.</h2>
+# Hi, I'm Abhijeet Hiwale 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhii-07&label=Profile%20views&color=0e75b6&style=flat" alt="Abhii-07" /> </p>
+### Software Engineer | Backend Systems • Fintech • Agentic AI
 
-- 🌱 I’m currently working at *PayCraft Solutions*
+Building reliable production systems with **Java & Spring Boot**  
+and exploring the next generation of software engineering with **AI Agents, LangGraph & Python**.
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://abhii-portfolio.vercel.app/)
+<br/>
 
-- 📫 How to reach me `abhijeethiwalemail@gmail.com`
+<a href="https://linkedin.com/in/abhijeethiwale">
+  <img src="https://img.shields.io/badge/LinkedIn-Abhijeet%20Hiwale-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Abhii-07">
+  <img src="https://img.shields.io/badge/GitHub-Abhii--07-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://abhii-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:abhijeethiwalemail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-abhijeethiwale-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
-- 📄 Have a look at my [Resume](https://drive.google.com/file/d/10LfP8SnhcHtTcmJuvuFvdPHun7LkjHeL/view)
+</div>
 
-- 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhijeethiwale/)
+---
 
-<!-- - 💬 ask me about Java
+## 👨‍💻 About Me
 
-- 😄 Pronouns: He/His -->
+I'm a **Software Engineer at Paycraft Solutions**, working on secure and scalable software for banking and fintech systems.
 
+My core engineering background is in **Java, Spring Boot, REST APIs, microservices, PostgreSQL, caching, and distributed backend systems**.
 
-<br>
-<br>
+Alongside backend engineering, I'm actively building and experimenting with **AI agents, multi-agent systems, long-term memory, retrieval, context engineering, and Human-in-the-Loop workflows** using Python, LangGraph, FastAPI, Redis, and pgvector.
 
-# 💻 Tech Stack:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I’m especially interested in the intersection of **traditional software engineering and AI engineering** — building AI systems that are reliable, observable, testable, and maintainable in production.
 
+---
 
-<h2 align="left">📄 My Stats:</h2>
+## ⚡ Engineering Impact
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhii-07" alt="Abhii-07" /></a> </p>
-<br>
+```text
+🚀  Reduced backend response times by 60% — ~2s → ~800ms
+👥  Built scalable services supporting 5,000+ concurrent users
+⚙️  Shipped production microservices with zero-downtime rollout
+📈  Improved frontend page-load performance by ~30%
+💳  Built REST APIs for high-volume payment processing workflows
+🏦  Worked on regulated multi-tenant banking & fintech platforms
+```
 
-<h2 align="left">📊 My DSA Stats:</h2>
-<p align="center">
- <img src= "https://leetcode.card.workers.dev/Abhii-07?theme=dark&font=baloo&extension=null" />
-</p>
+---
 
-<h2 align="left">📊 My Github Stats:</h2>
+## 🛠️ Tech Stack
 
-<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-07" /></p> -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-07&layout=compact&hide=html" />
-</p>
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhii-07&show_icons=true" alt="Abhii-07" /></p> -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhii-07&show_icons=true&count_private=true&include_all_commits=true" alt="Abhii-07" />
-</p>
+<table>
+<tr>
+<td><b>Backend</b></td>
+<td>Java • Spring Boot • Hibernate / JPA • REST APIs • Microservices</td>
+</tr>
+<tr>
+<td><b>AI Engineering</b></td>
+<td>Python • LangGraph • FastAPI • AI Agents • Multi-Agent Systems</td>
+</tr>
+<tr>
+<td><b>AI Practices</b></td>
+<td>Context Engineering • Prompt Engineering • HITL • Agentic Workflows</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>PostgreSQL • pgvector • Redis • Hybrid Retrieval</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>JavaScript • TypeScript • React • Next.js</td>
+</tr>
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>Docker • AWS • Azure • CI/CD • Git • GitHub</td>
+</tr>
+<tr>
+<td><b>Engineering</b></td>
+<td>SOLID • Unit Testing • System Design • API Performance • Scalability</td>
+</tr>
+</table>
 
+---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhii-07" alt="Abhii-07" /></p>
+## 🧠 What I'm Exploring
 
-<br>
-<h2 align="left">⚡Activity Graph:</h2>
-<!--   <a><img alt="Abhijeet Hiwale's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhii-07&theme=react-dark&hide_border=true" /></a> -->
-<!--   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhii-07&bg_color=fed1ff&color=4d0de3&line=150f14&point=111211&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-  
-  <a><img alt="Abhijeet Hiwale's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhii-07&bg_color=fed1ff&color=4d0de3&line=150f14&point=111211&area=true&hide_border=true"/></a> 
-<br>
+- Reliable **agentic software engineering**
+- Multi-agent orchestration and verification loops
+- Long-term memory architectures for AI assistants
+- Context engineering and hybrid retrieval
+- Human-in-the-Loop AI systems
+- AI-generated code verification
+- LLM routing, observability, and cost optimization
+- Building AI systems that behave like production software — not demos
 
+---
 
+## 📊 GitHub Activity
 
+<div align="center">
 
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhii-07&theme=github_dark&animation=rise"
+  width="100%"
+  alt="Abhijeet Hiwale GitHub Profile Summary"
+/>
 
+<br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Abhii-07&theme=github-compact&hide_border=true"
+  width="100%"
+  alt="Abhijeet Hiwale GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussions around **backend engineering, distributed systems, fintech, AI agents, context engineering, and how AI is changing software development**.
+
+- 💼 [LinkedIn](https://linkedin.com/in/abhijeethiwale)
+- 💻 [GitHub](https://github.com/Abhii-07)
+- 🌐 [Portfolio](https://abhii-portfolio.vercel.app/)
+- 📧 [Email](mailto:abhijeethiwalemail@gmail.com)
+
+---
+
+<div align="center">
+
+### `Build reliable systems. Use AI to amplify engineering — not replace it.`
+
+</div>
